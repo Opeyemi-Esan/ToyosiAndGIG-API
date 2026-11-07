@@ -1,0 +1,6 @@
+@ToyosiAndGIG_HostAddress = http://localhost:5119
+
+GET {{ToyosiAndGIG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
